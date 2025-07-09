@@ -1,12 +1,12 @@
 
-# ✈️ Flight Price Prediction - EDA & Feature Engineering 📊
+# ✈️ Flight Price Prediction - EDA & Feature Engineering 
 
 Welcome to my Flight Price Prediction project!  
 In this notebook, I performed detailed **Exploratory Data Analysis (EDA)** and extensive **Feature Engineering** on a flight dataset, preparing it for machine learning model development.
 
 ---
 
-## 📂 Dataset 📑
+## 📂 Dataset 
 
 | **Variable**  | **Description**                                                             |
 | :------------ | :-------------------------------------------------------------------------- |
